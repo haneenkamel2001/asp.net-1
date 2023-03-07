@@ -1,0 +1,3 @@
+C:\Users\Haneen Kamel dogmosh\Desktop\asp.net\asp.net-1\obj\Debug\asp.net-1.csproj.AssemblyReference.cache
+C:\Users\Haneen Kamel dogmosh\Desktop\asp.net\asp.net-1\obj\Debug\asp.net-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Haneen Kamel dogmosh\Desktop\asp.net\asp.net-1\obj\Debug\asp.net-1.csproj.CoreCompileInputs.cache
